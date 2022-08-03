@@ -5,7 +5,7 @@
 	},
 	"images" : [
 		{
-			"uri" : "textures/10000001.jpg"
+			"uri" : "https://raw.githubusercontent.com/ryukh1001/glbHub/main/textures/10000001.jpg"
 		}
 	],
 	"samplers" : [
@@ -129,7 +129,7 @@
 	],
 	"buffers" : [
 		{
-			"uri" : "10000001.bin",
+			"uri" : "https://raw.githubusercontent.com/ryukh1001/glbHub/main/10000001.bin",
 			"byteLength" : 95880
 		}
 	]
